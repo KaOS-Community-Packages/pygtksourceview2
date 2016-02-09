@@ -1,7 +1,7 @@
 
 pkgname=pygtksourceview2
 pkgver=2.10.1
-pkgrel=5
+pkgrel=1
 pkgdesc="Python bindings for gtksourceview2"
 arch=('x86_64')
 license=('GPL')
